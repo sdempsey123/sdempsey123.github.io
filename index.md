@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi, I am Steve Dempsey and I just graduated from Coding Dojo, a very difficult boot camp for web development. Since then, I've been posting some websites but this is my first blog in quite sometime. Hopefully, you will find the information useful. 
