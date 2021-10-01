@@ -1,0 +1,10 @@
+## This is my first blog post. 
+
+I can write anything i want.
+
+
+```tsql
+SELECT *
+FROM sys.tables
+WHERE [name] = 'SomeTable'
+```
