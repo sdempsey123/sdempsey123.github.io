@@ -3,11 +3,7 @@
 
 Hopefully, this blog post will go well. 
 
-```tsql
-SELECT *
-FROM sys.tables
-WHERE [name] = 'SomeTable'
-```
+
 
 Maybe I can write more. 
 Can I add something else? 
