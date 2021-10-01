@@ -1,6 +1,6 @@
 ## This is my first blog post. 
 
-I can write anything i want.
+Hopefully, this blog post will go well. 
 
 
 ```tsql
@@ -8,3 +8,5 @@ SELECT *
 FROM sys.tables
 WHERE [name] = 'SomeTable'
 ```
+
+Maybe I can write more. 
