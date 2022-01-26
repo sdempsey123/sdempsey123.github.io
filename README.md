@@ -14,6 +14,8 @@ Essentially, leave the instructional websites to the experts.
 
 As far as coding, I used HTML, CSS, Java, Django, and Python. Pretty much, my go-to for building websites. Also, I seem to be getting pretty good at using code from other sources. Thanks to those who contributed to my cause (and you didn't know you were contributing).
 
+## My website was vulnerable to attack
+
 The idea for this website was basic and my goal was to just get it to function and worry about other things later. The plan was to do an introductory video on the home page along with login/registration form. That took users to the second page where I created a list of golf courses users can be challenged but still have a good time. It contained a short write-up of each course with links to each course.
 
 From there, users were directed to a wall where they can leave messages and make comments. This page was make or break for my site. My purpose was to involve users on the site and hear their opinions. I thought this is a fantastic way to involve users. So I put everything together, but I got to thinking, what if some jerk got on the site and started spilling all kinds of nasty words on the wall. Don't think that wouldn't happen? Think again. I was like, this great element (the wall) could destroy my website. I was in too deep to give up.
