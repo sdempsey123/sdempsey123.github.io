@@ -1,5 +1,5 @@
 # Why you need a profane blocker
-## I was doing well with my website until I thought, what if bad language hits my wall? I needed a profanity blocker asap.
+## I was doing well with my website until I thought, what if bad language hits my wall?
 ### My first blog post -- profanity.censor
 
 ![image](https://user-images.githubusercontent.com/75657565/151254285-d16efa74-ebbb-4e09-b177-27c97a26aa43.png)
