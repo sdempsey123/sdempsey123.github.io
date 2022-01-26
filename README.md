@@ -1,6 +1,6 @@
 # Why you need a profane blocker
-I was doing well with my website until I thought, what if bad language hits my wall? I needed a profanity blocker asap.
-##My first blog post -- profanity.censor
+## I was doing well with my website until I thought, what if bad language hits my wall? I needed a profanity blocker asap.
+### My first blog post -- profanity.censor
 
 When I tackled my first website, I decided to play it conservative. I was just trying to survive Coding Dojo, a rough boot camp dedicated to web development, and I wanted to stay within my skill level. A few other students were knocking out some cool websites while others began somethng big and wound up finding themselves drowning in code. I did not want to be the latter, but I knew I couldn't compete with the former. I was somewhere in the middle.
 
